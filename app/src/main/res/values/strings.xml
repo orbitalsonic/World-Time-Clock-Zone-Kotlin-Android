@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">World Time</string>
+    <string name="refresh">Refresh</string>
+    <string name="empty_clock_text">You have not added any Time Zone. Click on the add button to add a Time Zone.</string>
+    <string name="todo">TODO</string>
+    <string name="enter_country_name">Enter City Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+</resources>
